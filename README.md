@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hushibul/hushibul/blob/main/portfolio-hushibul-haque.netlify.app](https://github.com/Hushibul/hushibul/blob/main/portfolio-hushibul-haque.netlify.app)
+- 👨‍💻 All of my projects are available at https://portfolio-hushibul-haque.netlify.app/
 
 - 📫 How to reach me **nayeemninz786@gmail.com**
 
